@@ -460,7 +460,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 75vh;
+  height: 100vh;
   background: url("../../foto/fotoegi.jpg") top left;
   background-size: cover;
   position: relative;
@@ -588,6 +588,10 @@ section {
 
 .section-bg {
   background-color: #f6f9fe;
+}
+
+.section-bg1 {
+  background-color: #edf4ff;
 }
 
 .section-title {
